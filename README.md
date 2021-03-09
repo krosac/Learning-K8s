@@ -1,5 +1,8 @@
 # Learning-K8s
 
+Kubernetes Website: [https://kubernetes.io/](https://kubernetes.io/)
+Kubernetes Contributor Website: [https://www.kubernetes.dev/](https://www.kubernetes.dev/)
+
 ## Introduction
 - Comic guide from google cloud ([https://cloud.google.com/kubernetes-engine/kubernetes-comic/](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)) that explains the basic components in Kubernetes
 - Youtube talk ([https://www.youtube.com/watch?v=lAyL9HKx8cQ&ab_channel=NDCConferences](https://www.youtube.com/watch?v=lAyL9HKx8cQ&ab_channel=NDCConferences)) that explains the concepts and command line examples (code used in the talk: [https://github.com/ChrisKlug/K8S4DEVS](https://github.com/ChrisKlug/K8S4DEVS))
