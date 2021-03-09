@@ -8,3 +8,7 @@
 ## Courses
 - Google's Cloud Architect learning path: [https://cloud.google.com/training/kubernetes-anthos-hybridcloud](https://cloud.google.com/training/kubernetes-anthos-hybridcloud)
   1. 2nd course on Coursera: Architecting with Google Kubernetes Engine 
+
+
+## Codebase
+- Codebase walkthrough [https://www.youtube.com/watch?v=yqB_le-N6EE&t=225s&ab_channel=Kubernetes](https://www.youtube.com/watch?v=yqB_le-N6EE&t=225s&ab_channel=Kubernetes) (A good Youtube channel that collects Kubernetes community meetings)
